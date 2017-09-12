@@ -1,6 +1,5 @@
 package io.jstack.sendcloud4j.util;
 
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;

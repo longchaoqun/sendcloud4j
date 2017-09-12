@@ -1,6 +1,5 @@
 package io.jstack.sendcloud4j.mail;
 
-
 import org.json.JSONObject;
 
 import java.util.ArrayList;

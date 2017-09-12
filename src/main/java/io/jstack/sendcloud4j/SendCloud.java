@@ -2,12 +2,12 @@ package io.jstack.sendcloud4j;
 
 
 import io.jstack.sendcloud4j.mail.MailWebApi;
-import org.apache.http.HttpHost;
 
 /**
  * Send Cloud API
  *
  * @author denger
+ * @update longchaoqun 2017/09/12
  */
 public class SendCloud {
 

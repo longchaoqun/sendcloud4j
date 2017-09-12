@@ -1,6 +1,5 @@
 package io.jstack.sendcloud4j.mail;
 
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
