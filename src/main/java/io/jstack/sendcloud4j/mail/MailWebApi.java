@@ -24,7 +24,7 @@ public class MailWebApi {
 
 
     private static final int DEFAULT_CONNECT_TIMEOUT = 2000;
-    private static final int DEFAULT_SOCKET_TIMEOUT = 2000;
+    private static final int DEFAULT_SOCKET_TIMEOUT = 3000;
 
     private int connectTimeout;
     private int socketTimeout;
