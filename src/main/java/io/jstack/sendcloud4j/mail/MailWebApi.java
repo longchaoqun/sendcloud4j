@@ -23,7 +23,7 @@ public class MailWebApi {
     private SendCloud sendCloud;
 
 
-    private static final int DEFAULT_CONNECT_TIMEOUT = 1000;
+    private static final int DEFAULT_CONNECT_TIMEOUT = 2000;
     private static final int DEFAULT_SOCKET_TIMEOUT = 2000;
 
     private int connectTimeout;
